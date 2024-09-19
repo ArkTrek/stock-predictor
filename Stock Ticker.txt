@@ -1,0 +1,17 @@
+Tata Consultancy Services (TCS) - Ticker: TCS.NS
+Infosys Limited - Ticker: INFY.NS
+Wipro Limited - Ticker: WIPRO.NS
+HDFC Bank Limited - Ticker: HDFCBANK.NS
+ICICI Bank Limited - Ticker: ICICIBANK.NS
+Kotak Mahindra Bank Limited - Ticker: KOTAKBANK.NS
+Sun Pharmaceutical Industries Limited - Ticker: SUNPHARMA.NS
+Dr. Reddy's Laboratories Limited - Ticker: DRREDDY.NS
+Reliance Industries Limited (RIL) - Ticker: RELIANCE.NS
+Oil and Natural Gas Corporation (ONGC) - Ticker: ONGC.NS
+Hindustan Unilever Limited (HUL) - Ticker: HINDUNILVR.NS
+Dabur India Limited - Ticker: DABUR.NS
+Maruti Suzuki India Limited - Ticker: MARUTI.NS
+Tata Motors Limited - Ticker: TATAMOTORS.NS
+Bharti Airtel Limited - Ticker: BHARTIARTL.NS
+Larsen & Toubro Limited (L&T) - Ticker: LT.NS
+UltraTech Cement Limited - Ticker: ULTRACEMCO.NS
